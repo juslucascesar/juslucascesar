@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Lucas Cesar,
+
+9426068@aluno.uniasselvi.com.br
+
+🇧🇷 Brazilian
+
+🕸 Check my Website: https://juslucascesar.github.io/
+
 <!--
 **juslucascesar/juslucascesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
