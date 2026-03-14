@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-Lucas Cesar,
+Lucas Cesar, a law student.
 
 9426068@aluno.uniasselvi.com.br
 
-🇧🇷 Brazilian
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="20"> Brazilian
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" width="20"/> Emacs enthusiast
 
 🕸 Check my Website: https://juslucascesar.github.io/
 
